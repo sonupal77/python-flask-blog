@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/code thunder",
+        "prod_uri": "mysql://root:@localhost/code thunder",
+        "fb_url": "https://facebook.com/codingthunder",
+        "tw_url": "https://twitter.com/codingthunder",
+        "gb_url": "https://github.com/codingthunder",
+        "gmail-user": "krsonupal4@gmail.com",
+        "gmail-password":"8226841657@Sp",
+        "no_of_posts": 3,
+        "login_image": "login.svg",
+        "admin_user": "sonu",
+        "admin_password": "sonu123",
+        "location": "E:\\vscode\\Flask\\static"
+    }
+}
